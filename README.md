@@ -1,5 +1,5 @@
 # Netflix-Stock-Price-Prediction
-#Objective 
+# Objective 
 To predict the Netflix stock price using Long short term Memory (LSTM)
-#Tool-Used
+# Tool-Used
 Jupyter Notebook
